@@ -6,6 +6,7 @@
         <a href="#"> Filter </a>
     </div>
     <div class="col-sm-6">
+        <a href="/">Go Back</a>
             <div class="trending-wrapper">
               <h5>results</h5>
               @foreach ($products as $item)
